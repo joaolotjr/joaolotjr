@@ -1,16 +1,31 @@
-### Hi there 👋
+## João Carlos Lot Junior
 
-<!--
-**joaolotjr/joaolotjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everybody. My name is João Carlos and I'm 27 years old. I'm currently a junior FullStack Developer.  Graduated in Electrical Engineering. In my **repositories** you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
 
-Here are some ideas to get you started:
+I love studying and I am always challenging myself to maintain a daily study routine. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :purple_heart: Interested in becoming a leading front-end developer and helping other women grow in technology.
+- 📫 How to reach me: joaolotjr@gmail.com
+- 😄 Pronouns: he / Him
+
+
+ You can find out more about my work and my interests. Follow it! 
+
+<a href="https://www.linkedin.com/in/joao-carlos-lot-junior/">
+  <img alt="João Carlos's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+
+
+##
+
+Stacks that I know and that I'm studying
+<div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
+   
