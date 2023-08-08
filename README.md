@@ -6,7 +6,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 - :purple_heart: Interested in becoming a leading front-end developer and helping other women grow in technology.
 - 📫 How to reach me: joaolotjr@gmail.com
-- 😄 Pronouns: he / Him
+- 😄 Pronouns: He / Him
 
 
  You can find out more about my work and my interests. Follow it! 
@@ -22,11 +22,12 @@ I love studying and I am always challenging myself to maintain a daily study rou
 Stacks that I know and that I'm studying
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img  align="center" alt="joaolotjr" height="30" width="40" background-color=white src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="background-color: white;" />
+  <img  align="center" alt="joaolotjr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
    
