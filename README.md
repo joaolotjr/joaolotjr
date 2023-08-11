@@ -22,7 +22,10 @@ I love studying and I am always challenging myself to maintain a daily study rou
 Stacks that I know and that I'm studying
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+     <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  
   <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
