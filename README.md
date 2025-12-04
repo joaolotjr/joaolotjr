@@ -31,6 +31,7 @@ I have professional experience across the full web application lifecycle, delive
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
+<br>
 
 **Other Technologies I work with:**
 <div style="display: inline_block"><br>
