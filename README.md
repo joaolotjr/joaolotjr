@@ -1,39 +1,64 @@
-## João Carlos Lot Junior
+# Hi there, I'm João Carlos! 👋
 
-Hello everybody. My name is João Carlos and I'm 29 years old. I'm currently a junior Full-Stack Developer.  Graduated in Electrical Engineering. In my **repositories** you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
+### Full Stack Developer | Electrical Engineer
 
-I love studying and I am always challenging myself to maintain a daily study routine. 
+I am a Full Stack Developer with a strong analytical foundation derived from my background in **Electrical Engineering**. Currently, I focus on building scalable, high-value web applications using **Node.js, Nest.js, Vue.js, and TypeScript**.
 
-- 💙: Interested in becoming a leading front-end and back-end developer, helping people to learn more about development web.
-- 📫 How to reach me: joaolotjr@gmail.com
-- 😄 Pronouns: He / Him
+I have professional experience across the full web application lifecycle, delivering efficient solutions for complex challenges. I also hold Postgraduate Specializations in **Software Development** and **LGPD (General Data Protection Law)**, ensuring my code is not only efficient but also compliant and secure.
 
+---
 
- You can find out more about my work and my interests. Follow it! 
+### 🚀 About Me
 
-<a href="https://www.linkedin.com/in/joao-carlos-lot-junior/">
-  <img alt="João Carlos's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br/>
+- 🔭 I’m currently working on **enterprise web applications** focused on operational efficiency and digital safety solutions.
+- 🎓 I hold a Postgraduate Degree in **Software Development** (Software Architecture emphasis).
+- ⚖️ I am a Specialist in **LGPD (General Data Protection Law)**, bridging the gap between tech and compliance.
+- 💡 I leverage my engineering background to solve complex logic and architectural problems.
+- 🤝 I volunteer as a Web Developer for **Buridogs**, helping facilitate animal adoptions.
+- 📫 How to reach me: **joaolotjr@gmail.com**
+- ⚡ Fun fact: I am a lifelong learner who maintains a disciplined daily study routine to constantly refine my stack.
 
+---
 
-##
+### 🛠️ Tech Stack & Tools
 
-Stacks that I know and that I'm studying
-<div>
-  <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-     <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+**Core Stack:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="VueJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
+
+**Other Technologies I work with:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/joaolotjr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolotjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolotjr&layout=compact&theme=tokyonight"/>
   </a>
-  
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img  align="center" alt="joaolotjr" height="30" width="40" background-color=white src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="background-color: white;" />
-  <img  align="center" alt="joaolotjr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
-  <img align="center" alt="joaolotjr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
+</div>
 
-   
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joao-carlos-lot-junior/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:joaolotjr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
